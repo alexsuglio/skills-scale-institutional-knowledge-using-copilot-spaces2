@@ -27,8 +27,8 @@ Use this checklist at each phase boundary (planning to execution, execution to r
 - [ ] **Scope handoff complete:** Prioritized backlog item(s) include acceptance criteria, owners, dependencies, and target milestone.
 - [ ] **Design handoff complete (if applicable):** UX artifacts are linked and include edge states, accessibility expectations, and open questions.
 - [ ] **Build handoff complete:** Implementation notes, technical assumptions, and integration impacts are documented for QA and PM visibility.
-- [ ] **Quality handoff complete:** QA Lead confirms test coverage plan, defect triage path, and unresolved risk log entries.
-- [ ] **Release handoff complete:** Release Manager confirms checklist status, approvals, communication plan, and rollback readiness.
+- [ ] **Quality handoff complete:** Test coverage plan, defect triage path, and unresolved risk log entries are documented.
+- [ ] **Release handoff complete:** Checklist status, approvals, communication plan, and rollback readiness are documented.
 - [ ] **Stakeholder handoff complete:** Decision points, launch status, and post-release follow-ups are shared with named stakeholders.
 
 ## Escalation Ownership

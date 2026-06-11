@@ -146,6 +146,11 @@ Release Managers coordinate the operational path to production. They ensure rele
 - Coordinate cross-team dependencies during deployment windows
 - Lead release communications before, during, and after deployment
 
+### Goals
+- Deliver predictable, low-risk releases
+- Improve release transparency and decision readiness
+- Reduce deployment incidents and recovery time
+
 ### Typical Communication
 - Release readiness reviews with PM, QA Lead, and engineering owners
 - Deployment window updates in shared channels
