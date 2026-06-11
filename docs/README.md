@@ -38,3 +38,4 @@ Quality is built into delivery, not deferred to the end. OctoAcme emphasizes uni
 - [OctoAcme — Release & Deployment Guide](./octoacme-release-and-deployment.md)
 - [OctoAcme — Retrospective & Continuous Improvement](./octoacme-retrospective-and-continuous-improvement.md)
 - [OctoAcme Personas](./octoacme-roles-and-personas.md)
+- [OctoAcme — Role Collaboration & Handoffs](./octoacme-role-collaboration-and-handoffs.md)
